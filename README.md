@@ -4,7 +4,7 @@ Play as Sheila, a 16 years old girl who lives with her Mom in a small, peaceful 
 
 ---
 # Download and Execute
-To download the game, access this link: XXX and execute it, select desired folder to be extracted. After extraction, execute Game.exe and enjoy!!
+To download the game, access this link: https://drive.google.com/file/d/1q0Hi2cunablftfFpWOzmL2_2WOPPQ3XH/view?usp=sharing and execute it, select desired folder to be extracted. After extraction, execute Game.exe and enjoy!!
 
 ---
 # Controls
