@@ -17,6 +17,7 @@ To move, use W to move up, A to move left, S to move down, D to move right. Z is
 * Tiles by KADOKAWA
 * Sprites by Mauricio Ortiz and KADOWAKA
 * Additional Scripts by Mauricio Ortiz
+* Additional Graphics by Mauricio Ortiz
 
 ---
 
