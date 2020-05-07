@@ -3,6 +3,7 @@
 Play as Sheila, a 16 years old girl who lives with her Mom in a small, peaceful town. One day, Sheila's Mom asks her for a small favor: Pick up some berries. Sheila agrees happily, and starts her little adventure, unknown to her the dangers ahead... 
 
 ---
+# Download and Execute
 To download the game, access this link: XXX and execute it, select desired folder to be extracted. After extraction, execute Game.exe and enjoy!!
 
 ---
