@@ -11,11 +11,11 @@ To move, use W to move up, A to move left, S to move down, D to move right. Z is
 
 ---
 # Credits
-Game created by Mauricio Ortiz
-Music by KADOKAWA
-Tiles by KADOKAWA
-Sprites by Mauricio Ortiz and KADOWAKA
-Additional Scripts by Mauricio Ortiz
+* Game created by Mauricio Ortiz
+* Music by KADOKAWA
+* Tiles by KADOKAWA
+* Sprites by Mauricio Ortiz and KADOWAKA
+* Additional Scripts by Mauricio Ortiz
 
 ---
 
